@@ -1,5 +1,5 @@
 # I2C Scan
-Script simples para varrer o barramento I2C em busca de dispositivos. Se um dispositivo for encontrado, seu endereço será reportado na serial.
+Script simples para varrer o barramento I2C em busca do endereço do dispositivo. Se um dispositivo for encontrado, seu endereço será reportado na serial.
 
 ## :dart: Funcionamento
   1. Conecte somente o dispositivo no arduino utilizando os pinos de `SDA` e `SCL`;
