@@ -3,7 +3,7 @@
 
 ## :page_facing_up:	Projetos
   1. [I2C Scan](./I2Cscan/README.md): Script simples para varrer o barramento I2C em busca do endereço do dispositivo. Se um dispositivo for encontrado, seu endereço será reportado na serial;
-  2. [Custom Character](./customCharacter/README.md): Criador de Símbolos Customizados para Display LCD 16x2 para Arduino;
+  2. [Custom Character](https://github.com/Alfredosavi/customCharacter): Criador de Símbolos Customizados para Display LCD 16x2 para Arduino;
   
 `OBS`: Para mais informações, acesse o arquivo `readme` de cada projeto.
 
